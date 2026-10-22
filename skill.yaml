@@ -1,0 +1,5 @@
+name: "rea-reverse"
+title: "REA 逆向分析"
+description: "供 REA 等执行型 Agent 使用的逆向分析 Skill。对软件、Web 服务、App、文件格式或协议做授权范围内的逆向：确认授权、按目标类型选择方法、收集证据、建立并验证假设，产出带证据的分析报告，必要时给出 clean-room 复现。不用于破解、绕过付费或保护、提取凭据，也不用于编写恶意软件。"
+category: "Work and knowledge"
+include_in_prompt: true
